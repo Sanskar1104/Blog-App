@@ -1,0 +1,17 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/contacts",
+    "prod_uri": "mysql://root:@localhost/contacts",
+    "blog_name": "Clean Blog",
+    "gmail_user": "sanskarprasad5@gmail.com",
+    "gmail_password": "sanskarprasad5@1104",
+    "about_text": "I am SANSKAR PRASAD. I am pursuing B.E. in Information Technology from Dr. DY Patil Institute of Technology.",
+    "no_of_posts": 2,
+    "login_image": "login.svg",
+    "admin_user": "Sanskar",
+    "admin_password": "sanskar",
+    "uploader_location": "C:\\Users\\DELL\\PycharmProjects\\sanskar\\static"
+  }
+}
